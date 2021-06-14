@@ -3,7 +3,7 @@ clear; clc;
 % CONDICIONES INICIALES
 N = 25;
 Vpos = 100*rand(N,2)-1;         % PARA QUE APAREZCA ENTRE -1 Y 1 TANTO 
-Vvel = rand(N,2)-0.5;         % LA VELOCIDAD COMO LA POSICIÓN 
+Vvel = rand(N,2)-0.5;         % LA VELOCIDAD COMO LA POSICIÃ“N 
 
 % alpha = 0.7;
 % beta = 0.005;
